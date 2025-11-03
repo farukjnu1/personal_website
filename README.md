@@ -42,16 +42,16 @@ Hosting	Azure App Service / GitHub Pages / AWS Amplify
 Version Control	Git / GitHub
 
 
-3. Configure
+1. Configure
 Update your profile information, project details, and social links in the configuration or HTML sections.
 
 
-4. Run Locally
+2. Run Locally
 For static version: open index.html in your browser.
 For ASP.NET version: press F5 or run from Visual Studio.
 
 
-5. Deploy
+3. Deploy
 Deploy easily using Azure, AWS, or GitHub Pages for free hosting.
 
 
