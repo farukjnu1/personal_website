@@ -16,10 +16,15 @@ The goal of this project is to provide an interactive, fast, and professional on
 🚀 Features
 
 ✅ Responsive Design – Works seamlessly on desktop, tablet, and mobile devices.
+
 ✅ Modern UI/UX – Clean layout with intuitive navigation and elegant transitions.
+
 ✅ Projects Showcase – Display detailed project cards with links to GitHub repositories or live demos.
+
 ✅ Contact Form / Social Links – Allows easy communication and networking.
+
 ✅ Dynamic Content – Sections easily editable from the backend or via configuration.
+
 ✅ SEO Friendly – Optimized meta tags and structure for better search visibility.
 
 🧩 Tech Stack
