@@ -2,13 +2,17 @@
 
 A personal portfolio website built to showcase my professional journey, technical skills, and projects in a clean and visually engaging format. Designed with simplicity, performance, and responsiveness in mind, this website serves as my digital identity — helping recruiters, collaborators, and clients connect with me easily.
 
+-------------------------------
+
 🧾 Overview
 
 This Portfolio Website highlights my work as a Software Engineer, featuring sections such as About Me, Skills, Projects, Experience, and Contact.
 It’s built with modern web technologies and follows a modular, maintainable structure that can easily be extended or customized.
 
 The goal of this project is to provide an interactive, fast, and professional online presence that reflects both technical proficiency and creative presentation.
- 
+
+------------------------------------
+
 🚀 Features
 
 ✅ Responsive Design – Works seamlessly on desktop, tablet, and mobile devices.
