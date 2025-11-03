@@ -28,33 +28,45 @@ The goal of this project is to provide an interactive, fast, and professional on
 ✅ SEO Friendly – Optimized meta tags and structure for better search visibility.
 
 🧩 Tech Stack
+
 Layer	Technology
+
 Frontend	HTML5, CSS3, Bootstrap, JavaScript, jQuery
+
 Backend (Optional)	ASP.NET MVC / ASP.NET Core
+
 Database (Optional)	Microsoft SQL Server
+
 Hosting	Azure App Service / GitHub Pages / AWS Amplify
+
 Version Control	Git / GitHub
+
 
 3. Configure
 Update your profile information, project details, and social links in the configuration or HTML sections.
+
 
 4. Run Locally
 For static version: open index.html in your browser.
 For ASP.NET version: press F5 or run from Visual Studio.
 
+
 5. Deploy
 Deploy easily using Azure, AWS, or GitHub Pages for free hosting.
+
 
 💡 Highlights
 Serves as a central place to present professional experience and achievements.
 Designed for performance and responsiveness.
 Can be easily customized for different portfolios, resumes, or personal branding needs.
 
+
 🧑‍💻 Author
 Developed by: Faruk Abdullah
 Email: farukjnu1@gmail.com
 Portfolio: faruk-abdullah.runasp.net
 GitHub: github.com/farukjnu1
+
 
 🏁 Live Demo
 🔗 Visit Portfolio: https://faruk-abdullah.runasp.net
